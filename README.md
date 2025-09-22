@@ -50,6 +50,12 @@ This project serves as a solid foundation for building scalable and secure backe
 
 ---
 
+## Steps to connect to MONGODB
+
+-  Go to Mongo-db -> overview -> connect -> compass -> copy the url
+-  for example- mongodb+srv://admin:<db_password>@shreecluster.or53xpc.mongodb.net/ -> replace password with admin and then 
+   add your database to connect to like myContact-Backend
+
 ## API Endpoints Overview
 
 - `/api/contacts` - Manage contacts (GET, POST, PUT, DELETE)
